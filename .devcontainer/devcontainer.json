@@ -1,0 +1,10 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+		"eamodio.gitlens",
+		"vscodevim.vim",
+	],
+    "containerUser": "datascientist"
+}
